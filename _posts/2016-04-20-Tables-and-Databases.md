@@ -17,7 +17,9 @@ table just above the code for creating it.  This makes it much easier to wipe ou
 It is sometimes nice to split tables up in order to eliminate dependancies on non-key fields.  This is called 3nF(3rd Normal Form).  The below picture is of a table that is not 3nf.
 ![_config.yml]({{ site.baseurl }}/images/3nf1.png)
 
-If you look at the table then you will see that genreType is dependant on genreID and most of all the bookID is dependant on genreID. This is known as transitive dependency. It is because of this that the table is not in 3nf.  To make it 3nf we can split the table into two seperate tables.  Because genreID is dependant on GenreType we can easily create a sperate table with those two fields.
+If you look at the table then you will see that genreType is dependant on genreID and most of all the bookID is dependant on genreID. This is known as transitive dependency. It is because of this that the table is not in 3nf.  
+
+To make it 3nf we can split the table into two seperate tables.  Because genreID is dependant on GenreType we can easily create a sperate table with those two fields.
 ![_config.yml]({{ site.baseurl }}/images/3nf2.png)
 
 
