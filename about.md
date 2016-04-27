@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 Shane is a Computer Science student at the University of Mary Washington.
-His desire is to work for a startup company that becomes the next Apple.
+His desire is to work for a startup company that will become the next Apple.
 
 ### More Information
 
