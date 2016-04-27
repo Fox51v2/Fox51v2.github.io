@@ -29,6 +29,6 @@ When you are interacting with a database it is good practice to use the principl
 This means that you create a user with limited abilities for the purpose of accessing the database.  The purpose of this is to restrict what a user can do in order to prevent malicious intent.  The below illustration demonstrates the creation of a limited user on an sql page that can be imported.  Once again notice the drop role statement.  This would allow you to make changes to the privileges then recreate the role.
 ![_config.yml]({{ site.baseurl }}/images/role1.png)
 
-The below image is an example of the rights that the role being created should have.
+The below image is an example of the rights that the role being created should have.  The role is allowed to connect to only one specific database and to interact with one particular table.
 ![_config.yml]({{ site.baseurl }}/images/role2.png)
 
