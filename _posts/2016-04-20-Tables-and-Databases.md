@@ -21,7 +21,7 @@ If you look at the table then you will see that genreType is dependant on genreI
 
 To make it 3nf we can split the table into two seperate tables.  Because genreID is dependant on GenreType we can easily create a sperate table with those two fields.
 ![_config.yml]({{ site.baseurl }}/images/3nf2.png)
-
+The end result
 
 
 
