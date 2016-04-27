@@ -8,7 +8,3 @@ Something that I am still learning to do is to test my code thoroughly.  What I 
 In the first example I will show you how to protect from sql injection.  Sql injdction is a technique that is used to attack data-driven applications. Sql statements are inserted into an entry field for execution and the the result is that database information is revealed to the attacker. Essentially the attacker inserts a statement that is always true into the text field.
 ![_config.yml]({{ site.baseurl }}/images/sqlinjection.png)
 
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
