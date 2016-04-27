@@ -13,7 +13,6 @@ The above illustration is example code for creating a users table. It is a good 
 table just above the code for creating it.  This makes it much easier to wipe out your tables and create new ones.  This is sometimes necessary because you make create many garbage accounts for testing purposes.  Note the primary key field toward the bottom.  The purpose of the primary key is to uniquely identify each record in a database table.  In this case each user that is created would have a unique number associated with their account.
 
 
-
 It is sometimes nice to split tables up in order to eliminate dependancies on non-key fields.  This is called 3nF(3rd Normal Form).  The below picture is of a table that is not 3nf.
 ![_config.yml]({{ site.baseurl }}/images/3nf1.png)
 
@@ -21,7 +20,7 @@ If you look at the table then you will see that genreType is dependant on genreI
 
 To make it 3nf we can split the table into two seperate tables.  Because genreID is dependant on GenreType we can easily create a sperate table with those two fields.
 ![_config.yml]({{ site.baseurl }}/images/3nf2.png)
-The end result
+The final two tables now have columns that are dependant on one primary key. Also known as 3nf.
 
 
 
