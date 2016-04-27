@@ -10,7 +10,7 @@ His desire is to work for a startup company that becomes the next Apple.
 ### More Information
 
 In his spare time, Shane likes to drive his car with no particular destination
-in mind.  He also enjoys 
+in mind.
 
 ### Contact me
 
