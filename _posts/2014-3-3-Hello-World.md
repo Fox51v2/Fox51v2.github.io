@@ -9,4 +9,6 @@ In the first example I will show you how to protect from sql injection.  Sql inj
 
 ![_config.yml]({{ site.baseurl }}/images/sqlinjection.png)
 
+In the picture above a hacker might get access to all the user names and passwords in a database by simply inserting 105 or 1=1 into the input box.
 
+The way to prevent this is 
