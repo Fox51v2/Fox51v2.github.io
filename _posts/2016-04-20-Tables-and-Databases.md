@@ -14,3 +14,6 @@ table just above the code for creating it.  This makes it much easier to wipe ou
 
 It is sometimes nice to split tables up in order to eliminate dependancies on non-key fields.  This is called 3nF(3rd Normal Form).
 
+![_config.yml]({{ site.baseurl }}/images/3nf1.png)
+
+
