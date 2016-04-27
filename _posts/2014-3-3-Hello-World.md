@@ -3,6 +3,8 @@ layout: post
 title: "Be sure to test your code thoroughly!!"
 published: true
 ---
+##SQL Injection
+
 Something that I am still learning to do is to test my code thoroughly.  What I mean is that I make a program or webpage that I believe work but I fail to take into account the various ways that they can be broken.  The way a web page can be broken is through text box input submissions.
 
 In the first example I will show you how to protect from sql injection.  Sql injdction is a technique that is used to attack data-driven applications. Sql statements are inserted into an entry field for execution and the the result is that database information is revealed to the attacker. Essentially the attacker inserts a statement that is always true into the text field.
@@ -11,4 +13,4 @@ In the first example I will show you how to protect from sql injection.  Sql inj
 
 In the picture above a hacker might get access to all the user names and passwords in a database by simply inserting 105 or 1=1 into the input box.
 
-The way to prevent this is 
+The way to prevent this is
