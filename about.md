@@ -9,7 +9,8 @@ His desire is to work for a startup company that becomes the next Apple.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In his spare time, Shane likes to drive his car with no particular destination
+in mind.  He also enjoys 
 
 ### Contact me
 
