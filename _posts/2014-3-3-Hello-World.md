@@ -3,7 +3,7 @@ layout: post
 title: "Be sure to test your code thoroughly!!"
 published: true
 ---
-##SQL Injection and coding errors
+## SQL Injesction and coding errors
 
 Something that I am still learning to do is to test my code thoroughly.  What I mean is that I make a program or webpage that I believe work but I fail to take into account the various ways that they can be broken.  The way a web page can be broken is through text box input submissions.
 
