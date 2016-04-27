@@ -9,4 +9,4 @@ First I will answer the question, "What is a table?" A table is a collection of 
 
 ![_config.yml]({{ site.baseurl }}/images/table.png)
 
-
+The above illustration is example code for creating a users table.
