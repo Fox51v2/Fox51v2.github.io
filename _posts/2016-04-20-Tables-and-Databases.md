@@ -8,3 +8,4 @@ First I will answer the question, "What is a table?" A table is a collection of 
 "\i FILENAME.sql" but lets not get ahead of ourselves because we need to creat the file first.
 
 ![table.png]({{site.baseurl}}/_posts/table.png)
+![]({{site.baseurl}}/_posts/table.png)![table.png]({{site.baseurl}}/_posts/table.png)
