@@ -10,4 +10,4 @@ First I will answer the question, "What is a table?" A table is a collection of 
 ![_config.yml]({{ site.baseurl }}/images/table.png)
 
 The above illustration is example code for creating a users table. It is a good idea to write the code for dropping a 
-table just above the code for creating it.  This makes it much easier to wipe out your tables and create new ones.  This is sometimes necessary because you make create many garbage accounts for testing purposes.
+table just above the code for creating it.  This makes it much easier to wipe out your tables and create new ones.  This is sometimes necessary because you make create many garbage accounts for testing purposes.  Note the primary key field toward the bottom.  The purpose of the primary key is to uniquely identify each record in a database table.
