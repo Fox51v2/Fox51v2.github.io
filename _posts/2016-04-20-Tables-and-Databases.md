@@ -32,3 +32,5 @@ This means that you create a user with limited abilities for the purpose of acce
 The below image is an example of the rights that the role being created should have.  The role is allowed to connect to only one specific database and to interact with one particular table.
 ![_config.yml]({{ site.baseurl }}/images/role2.png)
 
+I cannot stress enough how beneficial it is to create an sql form for handling database information.  It is far more time efficient than inputing the queries one at a time.
+
