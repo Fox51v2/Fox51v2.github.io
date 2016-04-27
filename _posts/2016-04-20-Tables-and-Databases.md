@@ -27,3 +27,6 @@ The final two tables now have columns that are dependant on one primary key. Als
 
 When you are interacting with a database it is good practice to use the principle of least privilege.
 This means that you create a user with limited abilities for the purpose of accessing the database.  The purpose of this is to restrict what a user can do in order to prevent malicious intent.
+![_config.yml]({{ site.baseurl }}/images/role1.png)
+
+
